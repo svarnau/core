@@ -18,9 +18,6 @@
 #
 # @@@ END COPYRIGHT @@@
 #
-## This version number is used by automated build procedures.
-## Please don't change the version number unless you know what you are doing.
-## Makefile Version: 8  -- SeaMonster
 include macros.gmk
 
 # Make Targets
